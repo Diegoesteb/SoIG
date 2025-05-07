@@ -60,7 +60,7 @@ A simple workflow of command used to run SoIG with a Description.
 | Usage                                 | Description                                               |
 | ------------------------------------- | --------------------------------------------------------- |
 | `-h` , `--help`                       | show this help message and exit.                          |
-| `-u` USERNAME , `--username` USERNAME | username of account to scan.                              |
+| `-u` USERNAME , `--username` USERNAME | ninodecampo.                              |
 | `-p` , `--postscrap`                  | scrape all uploaded images info.                          |
 | `-s` , `--savedata`                   | save data to file ( save profile pic, info , post info ). |
 
